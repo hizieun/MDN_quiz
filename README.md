@@ -1,4 +1,5 @@
 # MDN_quiz
+
 예제-숫자맞추기
 
 1과 100사이의 숫자 중 무작위로 추출한다.
@@ -27,3 +28,5 @@
   플레이어가 다시 게임을 할지 묻는다.
 	
 게임이 재시작 되면, 게임의 구조와 UI는 완전히 리셋되며, step1 부터 다시 로직이 시작된다.
+
+출처 https://developer.mozilla.org/ko/docs/Learn/JavaScript/First_steps/A_first_splash
